@@ -1,0 +1,20 @@
+:root{
+    
+    --container-color: #fff;
+    --purple: #6F5FDB;
+    --h3: #8A878E;
+    --sub: #66686B;
+    --h1: #120F18;
+    --nav: #7E7E7F;
+    --bg: #FBFBFE;
+
+
+    --bfs: 50px;
+    --sub: 30px;
+    --p: 22px;
+    --a: 20px;
+    --h3fs: 1.125rem;
+    --nfs: .938rem;
+    --sfs: .813rem;
+    --srfs: .75rem; 
+}
